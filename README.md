@@ -32,14 +32,13 @@ Follow the steps below to run both frontend and backend:
  Backend server will run at:
 http://localhost:5000
 
-2. Frontend Setup (React + Vite)
-Navigate to the frontend directory:
+### Frontend Setup (React + Vite)
+
+2. Navigate to the frontend directory:
+    ```bash
    cd frontend
 
-Install all necessary dependencies:
    npm install
-
-Start the development server:
    npm run dev
 Frontend app will run at:
 http://localhost:5173
