@@ -34,8 +34,12 @@ http://localhost:5000
 
 2. Frontend Setup (React + Vite)
 Navigate to the frontend directory:
-    cd frontend
-    npm install
-    npm run dev
+   cd frontend
+
+Install all necessary dependencies:
+   npm install
+
+Start the development server:
+   npm run dev
 Frontend app will run at:
 http://localhost:5173
